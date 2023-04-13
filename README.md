@@ -1,4 +1,4 @@
-# data-mining
+# Data-mining assignment 2
 
 Step 1: Open the jupyter notebook.
 
@@ -13,3 +13,7 @@ Step 4: After downloading the dataset, save the dataset and jupyter notebook in 
 
 
 Step 5: run the cells individually and record the results and accuracy.
+
+blog link:
+https://gsaiharshini.wixsite.com/my-site-2
+
